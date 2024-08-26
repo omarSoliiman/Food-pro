@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+/*@import url('https://fonts.google.com/css?family=open+Sans&display=swap');*/
+@import url('https://fonts.google.com');
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  font-family: Quicksand , SansSerif;
+  font-size: 18px;
+}
+
+
